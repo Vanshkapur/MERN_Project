@@ -10,6 +10,9 @@ export const Menu = () => {
         <br/>
         <NavLink to="/leaderboard">Leaderboard</NavLink>
         <br/>
+        <NavLink to="/register">Register</NavLink>
+        <br/>
+        <NavLink to="/login">Login</NavLink>
     </div>
   )
 }
